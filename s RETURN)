@@ -1,0 +1,48 @@
+[33mcommit 41c3c609b8111d696f8560a913b1aaf7ddb63aff[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 13:24:02 2023 +0530
+
+    index file modified
+
+[33mcommit cd48780617d0163a8afde49691529258e784cf6c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 13:18:56 2023 +0530
+
+    hello filr modified
+
+[33mcommit 9af89c2b7d73e2f229e210a88fa00888ac9bbd57[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: fdb930d 2f8985e
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 13:00:46 2023 +0530
+
+    WIP on feature: fdb930d hello file edited
+
+[33mcommit 2f8985e4e63e194425dc890030545226754fe2cb[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 13:00:46 2023 +0530
+
+    index on feature: fdb930d hello file edited
+
+[33mcommit fdb930d22e1b681feeef444e0ba15f0b6582f655[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 12:08:10 2023 +0530
+
+    hello file edited
+
+[33mcommit cdc62a6aa4e1af37254b7da7857edc38be9c24d0[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Mon Oct 23 11:59:19 2023 +0530
+
+    second file added
+
+[33mcommit cb86fcc5810f13b91a79fdbb97c865c47082eee0[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Sun Oct 22 14:06:41 2023 +0530
+
+    Added some messages
+
+[33mcommit 6343f1094f16bae26a4c5f5ab483f93a8ba512bb[m
+Author: Namitha <namithapj@pg.cusat.ac.in>
+Date:   Sun Oct 22 13:58:42 2023 +0530
+
+    Initial Commit
